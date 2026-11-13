@@ -7,10 +7,10 @@
         "test": "node test.js"
     },
     "dependencies": {
-        "htmlhint": "^0.14.2",
-        "puppeteer": "^10.4.0",
-        "stylelint": "^13.13.1",
-        "stylelint-config-standard": "^22.0.0"
+        "htmlhint": "^1.9.2",
+        "puppeteer": "^25.17.0",
+        "stylelint": "^17.16.0",
+        "stylelint-config-standard": "^40.0.0"
     },
     "author": "Hybridge Education",
     "license": "ISC"
